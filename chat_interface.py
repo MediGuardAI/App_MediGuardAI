@@ -3,7 +3,7 @@ import requests
 import logging
 
 # Set API Token & Model
-HUGGINGFACE_API_TOKEN = "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"  # Replace with your actual token
+HUGGINGFACE_API_TOKEN = "hf_XsNOVcTrGsjrQcDFO"  # Replace with your actual token
 MODEL_ID = "tiiuae/falcon-7b-instruct"
 
 # Configure logging
